@@ -4,9 +4,9 @@
 
 Hi folks! I am Douglas Santiago, a Software Developer student at MITT - Manitoba Institute of Trades & Technology and a former registered nurse, currently based in Winnipeg, Canada.
 
-My background as a registered nurse has honed my interpersonal skills, keen eye for detail, and ability to work effectively under pressure. I'm excited to leverage these skills, combined with my new technical knowledge, to contribute to innovative projects.
+My background as a registered nurse has honed my interpersonal skills, keen eye for detail, and ability to work effectively under pressure. I'm excited to leverage these skills, combined with my new technical knowledge, and contribute to innovative projects.
 
-I'm always open to new opportunities and collaborations. Feel free to explore my repositories for more details."
+I'm always open to new opportunities and collaborations. Feel free to explore my repositories for more details.
 
 ## 🌱 My skills
 
